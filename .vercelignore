@@ -1,0 +1,11 @@
+.git
+.env
+*.log
+*.md
+node_modules/*
+
+!db/node_modules/.prisma
+!db/node_modules/@prisma/client
+
+db/node_modules/
+db/.env
