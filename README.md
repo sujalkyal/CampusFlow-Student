@@ -1,8 +1,9 @@
-# 🎓 CampusFlow Student
+<h1 align="left">
+  <img src="public/logo_transparent.png" alt="CampusFlow Student" height="40" "/>
+  CampusFlow Student
+</h1>
 
 A modern, comprehensive student portal designed to streamline academic life with intuitive course management, attendance tracking, and assignment submission features. Built with Next.js and featuring a sleek dark theme with glassmorphism design elements.
-
-![CampusFlow Student](public/logo_transparent.png)
 
 ## ✨ Features
 
